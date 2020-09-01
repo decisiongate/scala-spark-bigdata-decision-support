@@ -5,7 +5,7 @@
 * [Usage](#usage)
 
 ## <a id="general-info" />General info
-Building applications for summary statistics using Apache Spark and Scala.
+Building applications for summary statistics for decision support using Apache Spark and Scala.
 	
 ## <a id="technologies" />Technology stack
 The project is created with:
