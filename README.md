@@ -13,7 +13,7 @@ The project is created with:
 * Apache Spark: 3.0.0 
 * Maven Scala Plugin: 2.15.2
 * IntelliJ IDEA (Ultimate Edition)
-* OpenJDK 64-Bit Server VM, Java 1.8.0_222
+* OpenJDK, Java 1.8.0
 * SBT 1.2.1
 * Windows binaries for Hadoop versions: winutils
 * Apache Hive Configuration Properties (providing data query and analysis, a SQL-like interface to query data stored in various databases and file systems that integrate with Hadoop).
