@@ -1,3 +1,5 @@
+# Scala application using Spark for Big Data driven decision support
+
 ## Table of contents
 * [General info](#general-info)
 * [Technology stack](#technologies)
