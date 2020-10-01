@@ -1,7 +1,7 @@
-# Scala application using Spark for Big Data driven decision support
+# Scala applications using Spark for Big Data driven decision support
 
 ## Info
-* Building applications for summary statistics for decision support using Apache Spark and Scala.
+* Building applications for summary statistics for Big Data driven decision support using Apache Spark and Scala.
 	
 ## Dependencies
 * Scala: 2.12.12
